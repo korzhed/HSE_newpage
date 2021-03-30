@@ -74,6 +74,10 @@ p {
   margin-top: 17px;
 }
 
+.cite {
+  text-align: right;
+}
+
 
 
 h1 + p {
