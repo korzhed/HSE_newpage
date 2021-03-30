@@ -2,7 +2,7 @@ body{
   margin-bottom: 100px;
 }
 
-h1, h2, h3, h4, ol, ul, p, blockquote {
+h1, h2, h3, h4, ol, ul, p, blockquote, dl {
   width: 700px;
   margin: auto;
 }
@@ -72,6 +72,10 @@ i {
 
 p {
   margin-top: 17px;
+}
+
+dl {
+  columns: 2;
 }
 
 .cite {
